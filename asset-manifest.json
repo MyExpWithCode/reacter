@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reacter/static/css/main.073c9b0a.css",
+    "main.js": "/reacter/static/js/main.a055932b.js",
+    "static/js/787.0f1161e8.chunk.js": "/reacter/static/js/787.0f1161e8.chunk.js",
+    "static/media/logo.svg": "/reacter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reacter/index.html",
+    "main.073c9b0a.css.map": "/reacter/static/css/main.073c9b0a.css.map",
+    "main.a055932b.js.map": "/reacter/static/js/main.a055932b.js.map",
+    "787.0f1161e8.chunk.js.map": "/reacter/static/js/787.0f1161e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a055932b.js"
+  ]
+}
