@@ -1,0 +1,10 @@
+name: Sample yml file
+on: [push]
+jobs:
+  sample-build:
+    runs-on: ubuntu-latest
+    name: job1
+    steps:
+      - name: node version 
+        run: |
+          node -v
